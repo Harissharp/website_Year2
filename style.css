@@ -1,0 +1,33 @@
+body{
+background-image: url("monke.jpg");
+background-size: contain;
+}
+p{
+color: deepskyblue;
+}
+
+#header{
+color: hotpink;
+border: solid 1px #FF0000;
+background-color: grey;
+text-align: center;   
+}
+
+#footer{
+color:darkkhaki;
+border: solid 1px #FF0000;
+background-color:grey;
+text-align: center;   
+}
+.BLACK{
+    color: black !important;
+}
+
+#buton_{
+    color:indianred ;
+    border: solid 1px black;
+    background-color: grey;
+    text-align: center;
+}
+
+
